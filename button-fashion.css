@@ -1,0 +1,42 @@
+a
+{
+	text-decoration:none;
+}
+div.fashionborder1
+{
+	margin-left:300px;
+	width:700;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+	background-color:white;
+	text-align:left;
+}
+div.fashionborder2
+{
+	margin-left:1030px;
+	margin-top:-990px;
+	width:570;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+	background-color:white;
+	text-align:left;
+}
+div.fashionborder3
+{
+	margin-left:200px;
+	width:1500;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+	background-color:white;
+	text-align:left;
+}
+p.fashion1,p.fashion2,p.fashion3,p.fashion4,h4
+{
+	margin-left:20px;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+}

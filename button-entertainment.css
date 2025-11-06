@@ -1,0 +1,53 @@
+a
+{
+	text-decoration:none;
+}
+div.enborder1
+{
+	margin-left:330px;
+	width:1250;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+	background-color:white;
+	text-align:left;
+}
+p.movie1,p.movie2,p.movie3,p.movie4
+{
+	margin-left:20px;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+}
+div.enborder2
+{
+	margin-left:210px;
+	width:1490;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+	background-color:white;
+	text-align:left;
+}
+p.music1,p.music2,p.music3,p.music4,h4
+{
+	margin-left:20px;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+}
+img
+{
+	border: 5px dotted #8c8cd9;
+	border-radius:10px;
+	padding:5px;
+}
+.image
+{
+	transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+.image:hover
+{
+	transform: scale(1.1);
+	box-shadow:1px 1px 15px 2px gray;
+}

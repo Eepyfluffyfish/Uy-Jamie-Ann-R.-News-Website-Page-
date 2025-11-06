@@ -1,0 +1,34 @@
+a.logo
+{
+	text-decoration:none;
+	border-style:none;
+}
+a.logo:hover{
+	border-style:none;
+}
+a
+{
+	text-decoration:none;
+	border:3px solid white;
+	border-radius:15px;
+	padding:5px;
+	font-size:30;
+
+	color:white;
+	font-family:Courier;
+	text-decoration:none;
+}
+a:hover{
+	border-style:dashed;
+	color:white;
+}
+p.text
+{
+	transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
+}
+p.text:hover{
+	transform: scale(1.1);
+}
+body{
+	overflow-y: hidden;
+}

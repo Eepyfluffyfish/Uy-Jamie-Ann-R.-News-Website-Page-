@@ -1,0 +1,31 @@
+a
+{
+	text-decoration:none;
+}
+div.sportborder1
+{
+	margin-left:340px;
+	width:1200;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+	background-color:white;
+	text-align:left;
+}
+div.sportborder2
+{
+	margin-left:200px;
+	width:1510;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+	background-color:white;
+	text-align:left;
+}
+p.sport1,p.sport2,p.sport3,p.sport4,h4
+{
+	margin-left:20px;
+	border: 0px solid;
+	border-radius:10px;
+	padding:5px;
+}
